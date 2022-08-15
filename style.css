@@ -34,9 +34,11 @@ header div a{
 .Header-link:hover{
     text-decoration: solid underline;
 }
-.header-right{
+.header-right {
     float: right;
     /* border: 1px solid red; */
+}
+.header-right a{
     opacity: 0.7;
 }
 #signid{
