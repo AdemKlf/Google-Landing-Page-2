@@ -1,3 +1,6 @@
+html{
+    overflow:scroll;
+}
 *{
     margin: 0;
     padding: 0;
